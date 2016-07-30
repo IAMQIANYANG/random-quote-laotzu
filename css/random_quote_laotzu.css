@@ -37,3 +37,15 @@ h1 {
     font-weight: bold;
 
 }
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    color:#000000;
+}
+
+.footer a{
+    color:#000000;
+}
